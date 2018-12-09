@@ -1,3 +1,5 @@
 This is a text file required for the GIT Assignment-1
 
 here is my first change to the file in hw1
+
+second change and stage
